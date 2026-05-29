@@ -3,7 +3,7 @@ import math
 import pandas as pd
 import seaborn as sns
 import matplotlib as plt
-from fontTools.diff import summarize
+
 
 df = pd.read_csv("WA_Fn-UseC_-Telco-Customer-Churn.csv")
 
